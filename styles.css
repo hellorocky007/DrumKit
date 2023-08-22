@@ -103,16 +103,11 @@ background-image: url(images/snare.png);
     text-shadow: 3px 0 #DBEDF3;
     border-radius: 15px;
     display: inline-block;
-    width: 100px;
-    height: 100px;
+    width: 130px;
+    height: 130px;
     text-align: center;
     margin: 10px;
     background-color: white;
   }
-  #title{
-   margin: 5px 5px 0px 0px;
-  }
-  .set{
-    margin: 5px 5px 0px 0px;
-  }
+  
 }
