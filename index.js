@@ -53,6 +53,7 @@ function buttonAnimation(currentKey){
     setTimeout(function(){
         activeB.classList.remove("pressed");
     },100);
+    
 } 
 // var audio = new Audio("sounds/tom-1.mp3");
 // audio.play();
